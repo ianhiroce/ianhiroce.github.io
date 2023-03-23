@@ -1,0 +1,22 @@
+h1, h3, p, ul, ol {
+    text-align: center;
+}
+
+p {
+    font-size:larger;
+    font-weight:400;
+}
+
+ul:hover, ol:hover {
+    background-color: #4C9BE3;
+    color:#99000F;
+}
+
+li:active {
+    font-family:monospace;
+    font-size: 20px;
+}
+
+li {
+    list-style: none;
+}
