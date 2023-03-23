@@ -1,0 +1,71 @@
+
+ body {
+    background-image: linear-gradient(to top, #6484b5, #5997c1, #55a8c8, #5cb9ca, #6fc9c9);}
+
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-family: monospace;
+}
+
+#foto {
+    width: 250px;
+    border-radius: 30px;
+    padding: 5px;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 15px;
+    float: left;
+}
+
+h4 {
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+
+    width: 500px;
+}
+
+#habilidades {
+    width: 300px;
+}
+
+.list {
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+#exemplo-list {
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1px;
+}
+
+.listinha {
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.links {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    line-height: 30px;
+}
+
+hr {
+    color: black;
+}
+
+#texto-final {
+    font-family: monospace;
+    font-size: 16px;
+    width: 700px;
+}
